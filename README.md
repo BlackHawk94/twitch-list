@@ -1,6 +1,6 @@
 # twitch-list
 La lista dei canali TWITCH dove SAKON90HD è presente 24/7 a farmare ore e punti canale.
-
+**PS: Il codice utlizzato per il farming NON VIOLA il TOS della piattaforma, NON è un bot per aumentare gli spettatori.
 
 
 * https://www.twitch.tv/pepo3393live
